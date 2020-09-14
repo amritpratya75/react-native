@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1047001803643",
+    "firebase_url": "https://onlinevidalaya.firebaseio.com",
+    "project_id": "onlinevidalaya",
+    "storage_bucket": "onlinevidalaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047001803643:android:ba98fbca05be288a4fabde",
+        "android_client_info": {
+          "package_name": "com.amritpratya.onlineVidalaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047001803643-5q5slib5o32al6gp7s5927o6rbht9mho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7mQEZ6e0kbYcAz3HjC6G9O_wAd_a1IWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047001803643-5q5slib5o32al6gp7s5927o6rbht9mho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
